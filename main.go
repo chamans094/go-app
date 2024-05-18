@@ -1,11 +1,11 @@
 package main
 
 import "fmt";
-<<<<<<< HEAD
+//<<<<<<< HEAD
 // import "testing";
 
 =======
->>>>>>> refs/remotes/origin/main
+//>>>>>>> refs/remotes/origin/main
 
 // Main function
 func main() {
