@@ -4,5 +4,5 @@ import "fmt";
 
 func main() {
 
-	fmt.Println("!... Namaste Duniya its 2026 ...!")
+	fmt.Println("!... Namaste Duniya ...!")
 }
